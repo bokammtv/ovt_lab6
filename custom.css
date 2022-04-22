@@ -1,0 +1,28 @@
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+
+.carousel-inner>.carousel-item>img {
+  filter: brightness(50%);
+}
+
+a {
+  text-decoration: none
+}
+
+.pre-nav-link:hover {
+  background-color: #edf2f4;
+  color: black;
+}
+
+.pre-nav-link {
+  font-size: 16px;
+}
+
+.working-hours {
+  font-size: 16px;
+}
+
